@@ -1,0 +1,17 @@
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\bin\Debug\WpfBasic.exe.config
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\bin\Debug\WpfBasic.exe
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\bin\Debug\WpfBasic.pdb
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.csprojResolveAssemblyReference.cache
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\MainWindow.g.cs
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\App.g.cs
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic_MarkupCompile.cache
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic_MarkupCompile.lref
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\MainWindow.baml
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.g.resources
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.Properties.Resources.resources
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.csproj.GenerateResource.Cache
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.exe
+C:\Users\Luka\Documents\Visual Studio 2015\Projects\WpfBasic\WpfBasic\obj\Debug\WpfBasic.pdb
+C:\Users\Luka\Source\Repos\WpfBasic\WpfBasic\bin\Debug\WpfBasic.exe.config
+C:\Users\Luka\Source\Repos\WpfBasic\WpfBasic\obj\Debug\WpfBasic.exe
+C:\Users\Luka\Source\Repos\WpfBasic\WpfBasic\obj\Debug\WpfBasic.pdb
